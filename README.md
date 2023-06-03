@@ -8,7 +8,10 @@ Passionate Game Developer 🎮 | Computer Science Student 🎓 | Comsats Univers
 
 - 💻 Skills: Java, C/C++/C#, Python scripting, Machine Learning Basics
 - 🚀 Working on exciting game development projects
-- 🕹️ Check out my latest game projects on [Unity Play](https://play.unity.com/u/hamidsaeed59)
+- 🕹️ Check out my latest game projects on Unity Play:
+
+[![Unity Play](https://img.shields.io/badge/Unity%20Play-View%20My%20Projects-yellow?style=for-the-badge&logo=unity&logoColor=white)](https://play.unity.com/u/hamidsaeed59)
+
 
 ### Connect with Me
 
