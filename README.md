@@ -1,4 +1,25 @@
-### Hi there 👋
+# Hi there! 👋
+
+## I'm Muhammad Hamid Saeed 🕹️
+
+Passionate Game Developer 🎮 | Computer Science Student 🎓 | Comsats University Lahore, Pakistan 🇵🇰
+
+### About Me
+
+- 💻 Skills: Java, C/C++/C#, Python scripting, Machine Learning Basics
+- 🚀 Working on exciting game development projects
+- 🕹️ Check out my latest game projects on [Unity Play](https://play.unity.com/u/hamidsaeed59)
+
+### Connect with Me
+
+Let's connect and collaborate! Find me on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamid-saeed-0b3ab41a7/)
+
+Feel free to reach out to me for game development or programming discussions.
+
+Happy coding! 🚀
+
 
 <!--
 **M-Hamid-Saeed/M-Hamid-Saeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
