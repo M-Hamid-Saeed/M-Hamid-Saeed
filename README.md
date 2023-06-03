@@ -2,7 +2,8 @@
 
 ## I'm Muhammad Hamid Saeed 🕹️
 
-Passionate Game Developer 🎮 | Computer Science Student 🎓 | Comsats University Lahore, Pakistan 🇵🇰
+Passionate Game Developer 🎮 | Computer Science Student 🎓 | Freelancer 💼 | Comsats University Lahore, Pakistan 🇵🇰
+
 
 ### About Me
 
@@ -12,14 +13,14 @@ Passionate Game Developer 🎮 | Computer Science Student 🎓 | Comsats Univers
 
 [![Unity Play](https://img.shields.io/badge/Unity%20Play-View%20My%20Projects-yellow?style=for-the-badge&logo=unity&logoColor=white)](https://play.unity.com/u/hamidsaeed59)
 
-
 ### Connect with Me
 
-Let's connect and collaborate! Find me on LinkedIn:
+Let's connect and collaborate! Find me on:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamid-saeed-0b3ab41a7/)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamid-saeed-0b3ab41a7/)
+- Fiverr: [![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_hamid_saeed?up_rollout=true)
 
-Feel free to reach out to me for game development or programming discussions.
+Feel free to reach out to me for game development or programming discussions or to explore freelance opportunities.
 
 Happy coding! 🚀
 
