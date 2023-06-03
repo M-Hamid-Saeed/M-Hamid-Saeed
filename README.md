@@ -18,6 +18,7 @@ Passionate Game Developer 🎮 | Computer Science Student 🎓 | Freelancer 💼
 Let's connect and collaborate! Find me on:
 
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamid-saeed-0b3ab41a7/)
+
 - Fiverr: [![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_hamid_saeed?up_rollout=true)
 
 Feel free to reach out to me for game development or programming discussions or to explore freelance opportunities.
