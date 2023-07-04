@@ -2,7 +2,7 @@
 
 ## I'm Muhammad Hamid Saeed 🕹️
 
-Passionate Game Developer 🎮 | Computer Science Student 🎓 | Freelancer 💼 | Comsats University Lahore, Pakistan 🇵🇰
+Passionate Game Developer 🎮 | Computer Science Student 🎓 | Machhine Learning | Freelancer 💼 | Comsats University Lahore, Pakistan 🇵🇰
 
 
 ### About Me
