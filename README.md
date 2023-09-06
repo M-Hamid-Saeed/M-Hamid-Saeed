@@ -1,42 +1,52 @@
+
 # Hi there! 👋
 
 ## I'm Muhammad Hamid Saeed 🕹️
 
-Passionate Game Developer 🎮 | Computer Science Student 🎓 | Machhine Learning | Freelancer 💼 | Comsats University Lahore, Pakistan 🇵🇰
-
+Passionate Game Developer 🎮 | Computer Science Student at Comsats University Lahore, Pakistan 🇵🇰🎓 | Machine Learning | Freelancer 💼 |
 
 ### About Me
 
-- 💻 Skills: Java, C/C++/C#, Python scripting, Machine Learning Basics
-- 🚀 Working on exciting game development projects
-- 🕹️ Check out my latest game projects on Unity Play:
+- 💻 Skills: Java, C/C++/C#, Python scripting, Tensorflow
+- 🚀 Working on Hypercasual game dev projects
+- 🚀 Goal for 2023 (December) - Improve Hypercasual Main Controllers
+- 🕹️ Check out my game projects on Unity Play:
 
 [![Unity Play](https://img.shields.io/badge/Unity%20Play-View%20My%20Projects-yellow?style=for-the-badge&logo=unity&logoColor=white)](https://play.unity.com/u/hamidsaeed59)
+
+### Experience
+
+- **Game Development Internship at Tribech Solutions**
+  - Worked as a Hypercasual Game Developer, gaining hands-on experience in game design, development, and debugging.
+  - Collaborated with a talented team to create engaging and visually appealing games.
+  - Learned valuable insights into the game development industry.
+
+- **Mindstorm Online Summer Program**
+  - Participated in the Mindstorm Online Summer Program, enhancing my skills in game development and programming.
+  - Developed an interactive game in the Mindstorm Game Jam.
+
+- **Participation in International GMTK Game Jam**
+  - Competed in the International GMTK (Good Game, Tough Game) Game Jam, a 48-hour game development competition.
+  - Created a unique Chess game following the theme (Role Reverse), showcasing problem-solving and creativity.
+
+- **Game Development Bootcamp at Game Train**
+  - Started my Game Dev career from here.
+  - Learned the Unity Basics.
 
 ### Connect with Me
 
 Let's connect and collaborate! Find me on:
 
--  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamid-saeed-0b3ab41a7/)
-
--  [![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_hamid_saeed?up_rollout=true)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamid-saeed-0b3ab41a7/)
+  
+  **Wanna Hire Me:**
+  
+- [![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_hamid_saeed?up_rollout=true)
+- ![Gmail](https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white) - hamid.saeed.uni@gmail.com
 
 Feel free to reach out to me for game development or programming discussions or to explore freelance opportunities.
 
 Happy coding! 🚀
+```
 
-
-<!--
-**M-Hamid-Saeed/M-Hamid-Saeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've added a Gmail icon and updated the formatting for better interaction. Feel free to customize it further if needed.
