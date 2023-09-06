@@ -14,25 +14,30 @@ Passionate Game Developer 🎮 | Computer Science Student at Comsats University 
 
 [![Unity Play](https://img.shields.io/badge/Unity%20Play-View%20My%20Projects-yellow?style=for-the-badge&logo=unity&logoColor=white)](https://play.unity.com/u/hamidsaeed59)
 
-### Experience
+### Experiences
 
-- **Game Development Internship at Tribech Solutions**
+- **Game Development Internship at Tribech Solutions (July - August 2023)** 
   - Worked as a Hypercasual Game Developer, gaining hands-on experience in game design, development, and debugging.
   - Collaborated with a talented team to create engaging and visually appealing games.
   - Learned valuable insights into the game development industry.
 
-- **Mindstorm Online Summer Program**
+- **Mindstorm Online Summer Program (June-August 2023)**
   - Participated in the Mindstorm Online Summer Program, enhancing my skills in game development and programming.
   - Developed an interactive game in the Mindstorm Game Jam.
 
-- **Participation in International GMTK Game Jam**
+- **Participation in International GMTK Game Jam (June 2023)**
   - Competed in the International GMTK (Good Game, Tough Game) Game Jam, a 48-hour game development competition.
   - Created a unique Chess game following the theme (Role Reverse), showcasing problem-solving and creativity.
 
-- **Game Development Bootcamp at Game Train**
+- **Game Development Bootcamp at Game Train (May - June 2023)**
   - Started my Game Dev career from here.
   - Learned the Unity Basics.
-
+    
+### Machine Learning  (Oct 2022 - November 2022)
+- **Participated in Google Developers Solution Challenge**
+  - Worked in ML team of GDSC Comsats Lahore.
+  - Worked on ML Model to classify Recycle Codes from Plastics Images.
+  
 ### Connect with Me
 
 Let's connect and collaborate! Find me on:
@@ -47,6 +52,3 @@ Let's connect and collaborate! Find me on:
 Feel free to reach out to me for game development or programming discussions or to explore freelance opportunities.
 
 Happy coding! 🚀
-```
-
-I've added a Gmail icon and updated the formatting for better interaction. Feel free to customize it further if needed.
