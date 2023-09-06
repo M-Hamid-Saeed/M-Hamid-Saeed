@@ -10,8 +10,10 @@ Passionate Game Developer 🎮 | Computer Science Student at Comsats University 
 - 💻 Skills: Java, C/C++/C#, Python scripting, Tensorflow
 - 🚀 Working on Hypercasual game dev projects
 - 🚀 Goal for 2023 (December)
-     - Improve Hypercasual Main Controllers
-     - Develop Personal Portfolio Website Using MERN Stack
+  
+          - Improve Hypercasual Main Controllers
+          - Develop Personal Portfolio Website Using MERN Stack
+  
 - 🕹️ Check out my game projects on Unity Play:
 
 [![Unity Play](https://img.shields.io/badge/Unity%20Play-View%20My%20Projects-yellow?style=for-the-badge&logo=unity&logoColor=white)](https://play.unity.com/u/hamidsaeed59)
