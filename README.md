@@ -7,7 +7,7 @@ Passionate Game Developer 🎮 | Computer Science Student at Comsats University 
 
 ### About Me
 
-- 💻 Skills: Java, C/C++/C#, Python scripting, Tensorflow
+- 💻 Skills: Unity, Java, C/C++/C#, Python scripting, Tensorflow
 - 🚀 Working on Hypercasual game dev projects
 - 🚀 Goal for 2023 (December)
   
