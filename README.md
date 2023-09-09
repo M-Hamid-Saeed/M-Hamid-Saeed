@@ -9,7 +9,7 @@ Passionate Game Developer 🎮 | Computer Science Student at Comsats University 
 
 - 💻 Skills: Unity, Java, C/C++/C#, Python scripting, Tensorflow
 - 🚀 Working on Hypercasual game dev projects
-- 🚀 Goal for 2023 (December)
+- 🚀 Goals for 2023 (December)
   
           - Improve Hypercasual Main Controllers
           - Develop Personal Portfolio Website Using MERN Stack
