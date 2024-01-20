@@ -3,18 +3,15 @@
 
 ## I'm Muhammad Hamid Saeed 🕹️
 
-Passionate Game Developer 🎮 | Computer Science Student at Comsats University Lahore, Pakistan 🇵🇰🎓 | Machine Learning | Freelancer 💼 |
+Passionate Game Developer 🎮 | Computer Science Student at Comsats University Lahore, Pakistan 🇵🇰🎓 💼 |
 
 ### About Me
 
 - 💻 Skills: Unity, Java, C/C++/C#, Python scripting, Tensorflow
-- 🚀 Working on Hypercasual game dev projects
-- 🚀 Goals for 2023 (December)
+- 🚀 Currently Working on Game Development
+
   
-          - Improve Hypercasual Main Controllers
-          - Develop Personal Portfolio Website Using MERN Stack
-  
-- 🕹️ Check out my game projects on Unity Play:
+- 🕹️ Unity Play:
 
 [![Unity Play](https://img.shields.io/badge/Unity%20Play-View%20My%20Projects-yellow?style=for-the-badge&logo=unity&logoColor=white)](https://play.unity.com/u/hamidsaeed59)
 
@@ -48,7 +45,6 @@ Let's connect and collaborate! Find me on:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hamid-saeed-0b3ab41a7/)
   
-  **Wanna Hire Me:**
   
 - [![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_hamid_saeed?up_rollout=true)
 - ![Gmail](https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white) - hamid.saeed.uni@gmail.com
