@@ -12,6 +12,7 @@ Passionate Game Developer 🎮 | Computer Science Student at Comsats University 
 
   
 - 🕹️ Unity Play:
+- These are initial learning tasks of Unity Learn Website Course.
 
 [![Unity Play](https://img.shields.io/badge/Unity%20Play-View%20My%20Projects-yellow?style=for-the-badge&logo=unity&logoColor=white)](https://play.unity.com/u/hamidsaeed59)
 
