@@ -19,7 +19,6 @@ Passionate Game Developer 🎮 | Computer Science Student at Comsats University 
 
 - **Game Development Internship at Tribech Solutions (July - August 2023)** 
   - Worked as a Hypercasual Game Developer, gaining hands-on experience in game design, development, and debugging.
-  - Collaborated with a talented team to create engaging and visually appealing games.
   - Learned valuable insights into the game development industry.
 
 - **Mindstorm Online Summer Program (June-August 2023)**
