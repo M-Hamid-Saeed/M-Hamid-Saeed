@@ -10,9 +10,9 @@ Passionate Game Developer 🎮 | Computer Science Student at Comsats University 
 - 💻 Skills: Unity, Java, C/C++/C#, Python scripting, Tensorflow
 - 🚀 Currently Working on Game Development
 
-### Portfolio 
-   Some Gameplays clips of previous 6 month projects. 
+### Portfolio (Some Gameplays clips of previous 6 month projects) 
    https://youtu.be/WBTpx5Le6ok
+   
 -
 - 🕹️ Unity Play:
 - These are initial learning tasks of Unity Learn Website Course.
