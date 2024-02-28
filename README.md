@@ -33,9 +33,8 @@ Passionate Game Developer 🎮 | Computer Science Student at Comsats University 
   - Competed in the International GMTK (Good Game, Tough Game) Game Jam, a 48-hour game development competition.
   - Created a unique Chess game following the theme (Role Reverse), showcasing problem-solving and creativity.
 
-- **Game Development Bootcamp at Game Train (May - June 2023)**
-  - Started my Game Dev career from here.
-  - Learned the Unity Basics.
+- **Game Development Course at Game Train (May - June 2023)**
+  
     
 ### Machine Learning  (Oct 2022 - November 2022)
 - **Participated in Google Developers Solution Challenge**
